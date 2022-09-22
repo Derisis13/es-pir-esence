@@ -1,0 +1,8 @@
+*.gbr
+*.drl
+*.ps
+*.gbrjob
+*.pdf
+*.zip
+./es-pir-esence-backups
+fp-info-cache
