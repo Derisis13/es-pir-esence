@@ -3,6 +3,15 @@
 A small circuit to detect presence with an ESP8266 module and a PIR sensor.
 My idea is to use ESPHome to connect the circuit to HomeAssistant for home automation or security.
 
+Schematic:
+
+![schematic.png](.assets/schematic.png)
+
+
+Layout:
+
+![layout.png](.assets/layout-no-fill.png)
+
 ---
 
 ES-PIR-esence (c) by HA5PLS
